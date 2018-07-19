@@ -5,7 +5,11 @@ RUN pip install keras \
 tensorflow \
 numpy \
 scikit-learn \
+imbalanced-learn \
 xgboost \
+lightgbm \
+pyclustering \
+pillow \
 pandas \
 scipy \
 seaborn \
