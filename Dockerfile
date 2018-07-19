@@ -8,8 +8,6 @@ scikit-learn \
 imbalanced-learn \
 xgboost \
 lightgbm \
-pyclustering \
-pillow \
 pandas \
 scipy \
 seaborn \
